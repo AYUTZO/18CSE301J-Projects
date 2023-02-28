@@ -23,7 +23,7 @@
 | 20 |	ABHIPSA SAHOO (RA2011003010346) | [Link]() | 1 | |
 | 21 |	SIMRAH RAFIQI (RA2011003010348) | [Link]() | 1 | |
 | 22 |	POORVI MITTAL (RA2011003010361) | [Link]() | 1 | |
-| 23 |	AYUSH KUMAR KUMAR (RA2011003010375) | [Link]() | 1 | |
+| 23 |	AYUSH KUMAR KUMAR (RA2011003010375) | [Link](https://ayutzo.github.io/18CSE301J_RA2011003010375/) | 1 | :white_check_mark: |
 | 24 |	SWARALI SANJAY UTEKAR (RA2011003010377) | [Link]() | 1 | |
 | 25 |	NILESH KUMAR SINGH (RA2011003010380) | [Link]() | 1 | |
 | 26 |	MEHUL SAINI (RA2011003010389) | [Link]() | 1 | |
@@ -42,7 +42,7 @@
 | 39 |	ADITYA KAPOOR (RA2011026010105) | [Link]() | 1 | |
 | 40 |	SARTHAK JAIN (RA2011026010112) | [Link]() | 1 | |
 | 41 |	HARIKESH P (RA2011026010193) | [Link]() | 1 | |
-| 42 |	KISHORE KHAN S (RA2011026010233) | [Link](https://kishorekhan2003.github.io/18CSE301J_RA2011026010233/) | 1 |:white_check_mark: |
+| 42 |	KISHORE KHAN S (RA2011026010233) | [Link]() | 1 | |
 | 43 |	ALLEN D BENJAMIN (RA2011026010240) | [Link](https://allenben18.github.io/18CSE301J_RA2011026010240/) | 1 | :white_check_mark: |
 | 44 |	Gadiraju Chinmay Varma (RA2011026010374) | [Link]() | 1 | |
 | 45 |	ADARSH JAMUAAR (RA2011028010018) | [Link](https://adarshjamuaar.github.io/18CSE301J_RA2011028010018/) | 1 |:white_check_mark:|
